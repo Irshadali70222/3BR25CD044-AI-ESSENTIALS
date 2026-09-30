@@ -1,2 +1,2 @@
-# day2-coding-assignment
+# MY GAME
 [click here to play my game](https://chinese-run.vercel.app/)
